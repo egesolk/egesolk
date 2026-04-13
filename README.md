@@ -1,36 +1,3 @@
-
----
-
-```asm
-; ════════════════════════════════════════════════════════════
-;   egesolk.asm  —  BEN KİMİM?
-; ════════════════════════════════════════════════════════════
-
-section .data
-    isim      db  "ege", 0
-    rol       db  "Siber Güvenlik Operatörü & Sızma Testi Uzmanı", 0
-    odak      db  "Ağ Güvenliği · Etik Hacking · Kırmızı Takım Ops", 0
-    konum     db  "Türkiye", 0
-    motto     db  "sistemleri kır, öğren, güvenli hale getir", 0
-
-section .text
-_start:
-    mov rax, [isim]      ; ege
-    mov rbx, [rol]       ; Sızma Testi Uzmanı
-    call kimlik_belirle
-    jmp ana_dongu
-
-kimlik_belirle:
-    lea rsi, [motto]     ; "sistemleri kır, öğren, güvenli hale getir"
-    ret
-```
-
----
-
-<br/>
-
-<div align="center">
-
 ## `◈  SERTİFİKALAR  ◈`
 
 <br/>
