@@ -1,24 +1,3 @@
-<!--
-╔══════════════════════════════════════════════════════════════╗
-║           egesolk | GitHub Profil README                     ║
-║           Siber Güvenlik Operatörü | Sızma Testi Uzmanı      ║
-╚══════════════════════════════════════════════════════════════╝
--->
-
-<div align="center">
-
-<!-- ANA BAŞLIK — Assembly typewriter animasyonu -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&duration=2600&pause=900&color=00FF41&background=0D110000&center=true&vCenter=true&width=660&height=65&lines=mov+rax%2C+'ege';push+rax;mov+rbx%2C+'byhacker';xor+rax%2C+rax;call+0x004145;ege+%40+byhacker;jmp+0x000000;nop+%3B+%3B+%3B+%3B" alt="Assembly Typewriter" />
-
-<br/>
-
-<br/><br/>
-
-![Profil](https://komarev.com/ghpvc/?username=egesolk&style=for-the-badge&color=00ff41&label=PROFİL+GÖRÜNTÜLENME)
-&nbsp;
-[![Takipçiler](https://img.shields.io/github/followers/egesolk?style=for-the-badge&color=4d9fff&labelColor=0d1117&label=TAKİPÇİ)](https://github.com/egesolk?tab=followers)
-
-</div>
 
 ---
 
