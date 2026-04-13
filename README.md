@@ -12,8 +12,6 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3200&pause=1100&color=4D9FFF&background=0D110000&center=true&vCenter=true&width=520&height=26&lines=%5B+%C5%9Fifre+%C3%A7%C3%B6z%C3%BCl%C3%BCyor...+%5D;%5B+sistem+taraniyor...+%5D;%5B+s%C4%B1zma+testi+ba%C5%9Flat%C4%B1l%C4%B1yor...+%5D;%5B+eri%C5%9Fim+sa%C4%9Fland%C4%B1.+%5D" alt="Alt başlık" />
-
 <br/><br/>
 
 ![Profil](https://komarev.com/ghpvc/?username=egesolk&style=for-the-badge&color=00ff41&label=PROFİL+GÖRÜNTÜLENME)
