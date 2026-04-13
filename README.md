@@ -74,9 +74,6 @@
 
 ## `◈  GİTHUB İSTATİSTİKLERİ  ◈`
 
-<br/>
-
-
 
 <br/><br/>
 
