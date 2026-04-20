@@ -33,7 +33,7 @@
     <td width="18"></td>
     <td align="center" width="150">
       <img src="https://img.shields.io/badge/Pentest_Sertifikası-8B5CF6?style=for-the-badge&logoColor=white" /><br/>
-      <sub><b>penetration test<br/>Sertifikası</b></sub>
+      <sub><b>penetration test<br/>certificate</b></sub>
     </td>
   </tr>
 </table>
